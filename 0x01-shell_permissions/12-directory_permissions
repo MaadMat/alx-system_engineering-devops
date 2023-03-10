@@ -1,3 +1,2 @@
 #!/bin/bash
-$(printf "
-" "mkdir my_dir" "chmod 751 my_dir")
+$(printf "" "mkdir my_dir" "chmod 751 my_dir")
