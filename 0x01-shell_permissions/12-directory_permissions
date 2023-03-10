@@ -1,2 +1,1 @@
-#!/bin/bash
-$(printf "" "mkdir my_dir" "chmod 751 my_dir")
+#!/bin/bash\nmkdir my_dir chmod 751 my_dir\n
